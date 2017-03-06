@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSHelloWorldUniversalApp", "CSHelloWorldUniversalApp\CSHelloWorldUniversalApp.csproj", "{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E036EE1-8575-43D6-97EC-E3E460F85B32}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\BLEND\14.0\EXTENSIONS\K1XH5AUV.02P\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\BLEND\14.0\EXTENSIONS\K1XH5AUV.02P\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|ARM.Build.0 = Debug|ARM
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|ARM.Deploy.0 = Debug|ARM
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|x64.ActiveCfg = Debug|x64
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|x64.Build.0 = Debug|x64
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|x64.Deploy.0 = Debug|x64
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|x86.ActiveCfg = Debug|x86
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|x86.Build.0 = Debug|x86
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Debug|x86.Deploy.0 = Debug|x86
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|ARM.ActiveCfg = Release|ARM
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|ARM.Build.0 = Release|ARM
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|ARM.Deploy.0 = Release|ARM
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|x64.ActiveCfg = Release|x64
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|x64.Build.0 = Release|x64
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|x64.Deploy.0 = Release|x64
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|x86.ActiveCfg = Release|x86
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|x86.Build.0 = Release|x86
+		{0171DAC9-4C30-4814-BCDF-9EE1B15A0D38}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
